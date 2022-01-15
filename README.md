@@ -6,9 +6,6 @@
 <a href="mailto:shanmukh.yenikapati@rutgers.edu">
   <img align="left" alt="Shanmukh's Email" width="22px" src="https://raw.githubusercontent.com/shanmukhaditya/shanmukhaditya/main/icons/mail.png" />
 </a>
-<a href="discordto:shanmukhaditya#1834">
-  <img align="left" alt="Shanmukh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/shanmukh-y/">
   <img align="left" alt="Shanmukh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
