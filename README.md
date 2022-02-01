@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanmukhaditya
-- 👀 I'm fascinated by machine learning and have recently developed an interest in backend development
+- 👀 I'm fascinated by machine learning and have recently developed an interest in web development
 - 🌱 I’m currently pursuing Masters in Computer Science at Rutgers University New Brunswick
 - 📫 How to reach me ...
 
