@@ -10,7 +10,7 @@
   <img align="left" alt="Shanmukh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31kh74sohh7hekbvggeco2uukfu4?si=d6f42921ab08405e">
-  <img align="left" alt="Shanmukh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Shanmukh's Spotify" width="22px" src="icons/icons8-spotify.gif" />
 </a>
 
 <!---
