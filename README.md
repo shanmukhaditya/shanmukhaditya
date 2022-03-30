@@ -4,13 +4,13 @@
 - 📫 How to reach me ...
 
 <a href="mailto:shanmukh.yenikapati@rutgers.edu">
-  <img align="left" alt="Shanmukh's Email" width="22px" src="https://raw.githubusercontent.com/shanmukhaditya/shanmukhaditya/main/icons/mail.png" />
+  <img align="left" alt="Shanmukh's Email" width="22px" src="icons/icons8-email-64.png" />
 </a>
 <a href="https://www.linkedin.com/in/shanmukh-y/">
-  <img align="left" alt="Shanmukh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shanmukh's LinkedIn" width="22px" src="icons/icons8-linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31kh74sohh7hekbvggeco2uukfu4?si=d6f42921ab08405e">
-  <img align="left" alt="Shanmukh's Spotify" width="22px" src="icons/icons8-spotify.gif" />
+  <img align="left" alt="Shanmukh's Spotify" src="icons/icons8-spotify.gif" />
 </a>
 
 <!---
