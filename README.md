@@ -13,10 +13,10 @@
   <img align="left" alt="Shanmukh's LeetCode" width="25px" src="icons/icons8-leetcode.png" />
 </a>
 <a href="https://hackerrank.com/shanmukhaditya9/">
-  <img align="left" alt="Shanmukh's Hackerrank" width="10px" src="icons/icons8-hackerrank.png" />
+  <img align="left" alt="Shanmukh's Hackerrank" width="25px" src="icons/icons8-hackerrank.png" />
 </a>
 <a href="https://open.spotify.com/user/31kh74sohh7hekbvggeco2uukfu4?si=d6f42921ab08405e">
-  <img align="left" alt="Shanmukh's Spotify" width="25px" src="icons/icons8-spotify.gif" />
+  <img align="left" alt="Shanmukh's Spotify" width="10px" src="icons/icons8-spotify.gif" />
 </a>
 
 <!---
