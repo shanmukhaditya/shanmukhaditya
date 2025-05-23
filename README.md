@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @shanmukhaditya
-- 👀 I'm fascinated by machine learning and have recently developed an interest in web development
-- 🌱 I’m currently pursuing Masters in Computer Science at Rutgers University New Brunswick
-- 📫 How to reach me ...
+- 👀 Software Engineer @ Lowe's | CS @ Rutgers New Brunswick
+- 💡 Passionate about building ML-powered services, integrating LLMs, and creating intelligent tools that solve real-world problems.  
+- 🛠️ Skilled in Python, FastAPI, Java, GCP, Airflow, and modern backend architectures.
+
+## 🔧 Tech Interests
+- Large Language Models (LLMs) & Prompt Engineering
+- Agentic AI Systems
+- Scalable API Design
+- ETL Pipelines & Data Engineering
+
+📫 How to reach me ...
 
 <a href="mailto:shanmukh.yenikapati@rutgers.edu">
   <img align="left" alt="Shanmukh's Email" width="22px" src="icons/icons8-email-64.png" />
